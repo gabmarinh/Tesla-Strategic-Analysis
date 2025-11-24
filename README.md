@@ -5,7 +5,7 @@
 **Author:** Gabriel Marín Huerta
 **Focus:** Corporate Strategy, Competitive Analysis, Decision Making
 **Date:** January 2025
-
+[📥 Click here to read the Full Strategic Report (PDF)](Tesla_Report.pdf)
 ---
 
 ## 📑 Executive Summary
